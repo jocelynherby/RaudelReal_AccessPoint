@@ -12,14 +12,14 @@ Example:
 - [X] Intro - 11/23/22
 ```
 
-- [ ] Intro
-- [ ] Syntax
-- [ ] Comments
-- [ ] Variables
-- [ ] Variables - Variable Names
-- [ ] Variables - Assign Multiple Values
-- [ ] Variables - Output Variables
-- [ ] Variables - Global Variables
+- [x] Intro 11/23
+- [x] Syntax 11/23
+- [x] Comments 11/23
+- [x] Variables 11/23
+- [x] Variables - Variable Names 11/23
+- [x] Variables - Assign Multiple Values 11/23
+- [x] Variables - Output Variables  11/23
+- [x] Variables - Global Variables 11/23
 - [ ] Data Types
 - [ ] Numbers
 - [ ] Casting
