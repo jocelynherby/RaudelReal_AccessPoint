@@ -10,3 +10,10 @@ myvar2 = 'john'
 my-var = 'john'
 my var = 'john'
 #variable names are case-sensitive
+
+#camel case 
+myVaribleName = 'john'
+#pascal case
+MyVariableName = 'john'
+#snake case 
+my_variable_name = 'john'
