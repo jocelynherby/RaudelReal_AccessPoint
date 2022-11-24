@@ -20,7 +20,7 @@ Example:
 - [x] Variables - Assign Multiple Values 11/23
 - [x] Variables - Output Variables  11/23
 - [x] Variables - Global Variables 11/23
-- [ ] Data Types
+- [x] Data Types 11/24
 - [ ] Numbers
 - [ ] Casting
 - [ ] Strings
