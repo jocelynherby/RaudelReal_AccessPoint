@@ -21,9 +21,9 @@ Example:
 - [x] Variables - Output Variables  11/23
 - [x] Variables - Global Variables 11/23
 - [x] Data Types 11/24
-- [x] Numbers11/24
-- [ ] Casting
-- [ ] Strings
+- [x] Numbers 11/24
+- [x] Casting 11/24
+- [x] Strings 11/24
 - [ ] Booleans
 - [ ] Operators
 - [ ] Lists
