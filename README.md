@@ -2,7 +2,7 @@
 
 ## W3 Python Tutorial Progress Tracker
 ### Goal:
-Complete at least 2/day to be done by Dec 9 and have time to study for certificate and be all done by Dec 15.
+Complete at least 4/day to be done by Dec 9 and have time to study for certificate and be all done by Dec 15.
 
 ### Instructions:
 Mark an item complete with an X between the [ ] and add the date you completed the work behind the module name
@@ -24,12 +24,48 @@ Example:
 - [x] Numbers 11/24
 - [x] Casting 11/24
 - [x] Strings 11/24
+- [ ] Strings - Slicing Strings
+- [ ] Strings - Modify Strings
+- [ ] Strings - Concatenate Strings
+- [ ] Strings - Format Strings
+- [ ] Strings - Escape Characters
+- [ ] Strings - String Methods
 - [ ] Booleans
 - [ ] Operators
 - [ ] Lists
+- [ ] Lists - Access List Items
+- [ ] Lists - Change List Items
+- [ ] Lists - Add List Items
+- [ ] Lists - Remove List Items
+- [ ] Lists - Loop Lists
+- [ ] Lists - List Comprehension
+- [ ] Lists - Sort Lists
+- [ ] Lists - Copy Lists
+- [ ] Lists - Join Lists
+- [ ] Lists - List Methods
 - [ ] Tuples
+- [ ] Tuples - Access Tuples
+- [ ] Tuples - Update Tuples
+- [ ] Tuples - Unpack Tuples
+- [ ] Tuples - Loop Tuples
+- [ ] Tuples - Join Tuples
+- [ ] Tuples - Tuple Methods
 - [ ] Sets
+- [ ] Sets - Access Set Items
+- [ ] Sets - Add Set Items
+- [ ] Sets - Remove Set Items
+- [ ] Sets - Loop Sets
+- [ ] Sets - Join Sets
+- [ ] Sets - Set Methods
 - [ ] Dictionaries
+- [ ] Dictionaries - Access Items
+- [ ] Dictionaries - Change Items
+- [ ] Dictionaries - Add Items
+- [ ] Dictionaries - Remove Items
+- [ ] Dictionaries - Loop Dictionaries
+- [ ] Dictionaries - Copy Dictionaries
+- [ ] Dictionaries - Nested Dictionaries
+- [ ] Dictionaries - Dictionary Methods
 - [ ] If...Else
 - [ ] While Loops
 - [ ] For Loops
