@@ -22,4 +22,4 @@ thisList = ['apple', 'banana', 'cherry']
 thisList.insert(2, 'watermelon')
 print(thisList)
 #The "insert()" method inserts an item at the specified index
-
+#As a result of the example above, the list will now contain 4 items
