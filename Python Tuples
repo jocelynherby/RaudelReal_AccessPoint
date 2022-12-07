@@ -1,0 +1,30 @@
+thistuple = ('apple', 'banana', 'cherry')
+print(thistuple)
+
+thistuple = ('apple', 'banana', 'cherry', 'apple', 'cherry')
+print(thistuple)
+
+thistuple = ('apple', 'banana', 'cherry')
+print(len(thistuple))
+
+thistuple = ('apple',)
+print(type(thistuple))
+
+thistuple = ('apple')
+print(type(thistuple)) #not a tuple
+
+tuple1 = ('apple', 'banana', 'cherry')
+tuple2 = (1, 2, 4, 5, 6)
+tuple3 = (True, False, True)#can be used with any kinda of data type
+print(tuple1)
+print(tuple2)
+print(tuple3)
+
+tuple1 = ("abc", 34, True, 40, "male")
+print(tuple1)
+
+mytuple = ('apple', 'banana', 'cherry')
+print(type(mytuple))
+
+thistuple = tuple(('apple', 'banana', 'cherry'))
+print(thistuple)
